@@ -1,0 +1,13 @@
+.background {
+  background-color: lightseagreen;
+  color: rgb(3, 26, 3);
+  font-family: cursive;
+}
+.heading {
+  text-align: center;
+}
+.regform {
+  color: goldenrod;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: medium;
+}
