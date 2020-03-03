@@ -8,6 +8,17 @@
 }
 .regform {
   color: goldenrod;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: medium;
+}
+.error
+{
+  color:red;
+  font-size: small;
+}
+.required
+{
+  color:red;
+  font-size:xx-small;
+  padding-inline-start: 2%;
 }
